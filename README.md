@@ -1,0 +1,4 @@
+# ziroom
+room_release_reminder.py:
+一个可以实时关注自如上面配置中还未发布的房源的脚本
+fangyuan_url为目标房源的页面url，设置发信邮箱和收信邮箱即可在房源出现状态变化的时候得到邮件通知
